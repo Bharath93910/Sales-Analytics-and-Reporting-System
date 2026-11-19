@@ -1,0 +1,4 @@
+customer_type,customers,revenue,revenue_share_pct
+1. Loyal (25+ orders),50,8251496.55,51.4
+2. Regular (10-24 orders),93,4494820.85,28.0
+3. Occasional (1-9 orders),241,3321160.15,20.7

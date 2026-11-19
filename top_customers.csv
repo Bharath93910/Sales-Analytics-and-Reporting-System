@@ -1,0 +1,11 @@
+customer_id,customer_name,region,segment,orders,revenue,first_order,last_order
+262,Arjun Chowdary,East,Consumer,198,815961.1,2024-01-08,2025-12-31
+60,Sai Sharma,North,Corporate,244,699771.3,2024-01-03,2025-12-30
+375,Rohan Patel,North,Home Office,154,567343.35,2024-01-03,2025-12-30
+18,Pooja Reddy,North,Corporate,115,370944.95,2024-01-05,2025-12-29
+337,Priya Sharma,Central,Consumer,72,277513.55,2024-01-07,2025-12-24
+187,Ishaan Gupta,East,Consumer,82,254380.2,2024-01-02,2025-12-24
+69,Priya Reddy,South,Consumer,62,233659.55,2024-01-01,2025-12-29
+245,Meera Naidu,South,Consumer,66,231176.5,2024-01-01,2025-12-19
+277,Lakshmi Iyer,North,Consumer,82,227665.45,2024-01-10,2025-12-29
+44,Vivaan Iyer,South,Corporate,81,223713.9,2024-01-23,2025-12-29
